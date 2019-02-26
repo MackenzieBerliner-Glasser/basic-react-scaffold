@@ -5,4 +5,4 @@ export default {
     Component: Home,
     linkTo: () => '/'
   }
-};
+}
